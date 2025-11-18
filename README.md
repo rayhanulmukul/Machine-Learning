@@ -1,4 +1,4 @@
-# Machine Learning Laboratory – Classification, Clustering & Dimensionality Reduction
+# CSE4211 – Machine Learning Laboratory – Classification, Clustering & Dimensionality Reduction
 
 This repository consolidates end-to-end implementations of supervised and unsupervised learning workflows, including classification benchmarking, clustering performance evaluation, and dimensionality reduction via PCA.
 
