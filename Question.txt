@@ -1,0 +1,5 @@
+Lab:
+Classification: Logistic Regression, Multinomial Naive Bias (Compare on the same database)
+Classification: SVM, Random Forest (Compare on the same dataset using various performance matrices like acc, recall. Before that, show the distribution of data)
+Clustering: K-Means and GMM (Comparison)
+PCA: Showing its performance
