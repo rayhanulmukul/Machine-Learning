@@ -65,6 +65,6 @@ python main.py
 
 ## Academic Attribution
 
-Department of Computer Science & Engineering
-University of Rajshahi
-Machine Learning Laboratory
+Department of Computer Science & Engineering  
+University of Rajshahi  
+CSE4211-Machine Learning Lab  
